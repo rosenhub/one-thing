@@ -1,65 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-  <defs>
-    <style>
-      .panel { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
-      .label { font-size: 13px; font-weight: 700; letter-spacing: 1.5px; fill: #8b949e; }
-      .q { font-size: 17px; fill: #c9d1d9; }
-      .a { font-size: 16px; fill: #e6edf3; }
-      .dim { fill: #6e7681; }
-      .strike { fill: #8b949e; text-decoration: line-through; }
-      .good { fill: #3fb950; }
-      .bad { fill: #f85149; }
-      .meta { font-size: 13px; fill: #8b949e; }
-      .bubble-user { fill: #1f6feb; }
-      .bubble-ai { fill: #161b22; stroke: #30363d; }
-      .title { font-size: 30px; font-weight: 800; fill: #e6edf3; }
-      .sub { font-size: 16px; fill: #8b949e; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="620" fill="#010409"/>
+  <text x="600" y="46" text-anchor="middle" font-size="28" font-weight="800" fill="#e6edf3">"I've avoided calling the doctor for weeks. Phones make me freeze."</text>
+  <text x="600" y="76" text-anchor="middle" font-size="17" font-style="italic" fill="#c9d1d9">An autistic adult with ADHD. It has been six weeks.</text>
+  <text x="600" y="99" text-anchor="middle" font-size="13" fill="#6e7681">Same model. Same question. The only difference is one skill file.</text>
 
-  <rect width="1200" height="560" fill="#010409"/>
-
-  <text x="600" y="48" text-anchor="middle" class="title">"I need to do my taxes and I've been avoiding it for 3 months"</text>
-  <text x="600" y="74" text-anchor="middle" class="sub">Same model. Same question. Only difference: one line in the system prompt.</text>
-
-  <!-- BEFORE -->
-  <rect x="40" y="100" width="545" height="420" rx="12" class="panel"/>
-  <text x="64" y="130" class="label">BEFORE</text>
-  <text x="560" y="130" text-anchor="end" class="meta bad">83 words · 9 steps</text>
-
-  <rect x="64" y="148" width="497" height="334" rx="10" class="bubble-ai"/>
-  <g class="a" font-size="15">
-    <text x="84" y="176">Totally understandable — taxes are easy to put off!</text>
-    <text x="84" y="198">Here's a plan to make it manageable:</text>
-    <text x="84" y="220">1. Gather your W-2s, 1099s, and last year's return.</text>
-    <text x="84" y="242">2. Decide: file yourself (TurboTax) or hire a pro.</text>
-    <text x="84" y="264">3. Create an account or book an appointment.</text>
-    <text x="84" y="286">4. Enter your income information.</text>
-    <text x="84" y="308">5. Go through deductions and credits.</text>
-    <text x="84" y="330">6. Double-check everything for accuracy.</text>
-    <text x="84" y="352">7. Submit your federal return.</text>
-    <text x="84" y="374">8. File your state return.</text>
-    <text x="84" y="396">9. Save a copy of the confirmation.</text>
-    <text x="84" y="418">The hardest part is starting. You've got this!</text>
+  <rect x="40" y="118" width="545" height="460" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="64" y="148" font-size="13" font-weight="700" letter-spacing="1.5" fill="#8b949e">BEFORE</text>
+  <text x="560" y="148" text-anchor="end" font-size="13" fill="#f85149">74 words · 9 steps</text>
+  <rect x="64" y="166" width="497" height="376" rx="10" fill="#161b22" stroke="#30363d"/>
+  <g fill="#e6edf3">
+    <text x="84" y="196" font-size="15">That's so understandable, and phone anxiety is really</text>
+    <text x="84" y="218" font-size="15">common! Here's a plan:</text>
+    <text x="84" y="240" font-size="15">1. Find the number.</text>
+    <text x="84" y="262" font-size="15">2. Check your calendar for good times.</text>
+    <text x="84" y="284" font-size="15">3. Write a script of what you'll say.</text>
+    <text x="84" y="306" font-size="15">4. Get your insurance card ready.</text>
+    <text x="84" y="328" font-size="15">5. Practice the script out loud.</text>
+    <text x="84" y="350" font-size="15">6. Pick a quiet time to call.</text>
+    <text x="84" y="372" font-size="15">7. Make the call.</text>
+    <text x="84" y="394" font-size="15">8. Write down the appointment.</text>
+    <text x="84" y="416" font-size="15">9. Reward yourself!</text>
+    <text x="84" y="438" font-size="15">You can also check if they have online booking. You've</text>
+    <text x="84" y="460" font-size="15">got this!</text>
   </g>
-  <g class="meta bad" font-size="12">
-    <text x="84" y="460">✗ 9 visible steps  ✗ step 1 is 40 minutes  ✗ a choice in step 2  ✗ pep talk</text>
-  </g>
+  <text x="84" y="524" font-size="12" fill="#f85149">✗ 9 steps  ✗ "write a script" is a whole job  ✗ "you've got this"</text>
 
-  <!-- AFTER -->
-  <rect x="615" y="100" width="545" height="420" rx="12" class="panel"/>
-  <text x="639" y="130" class="label">AFTER · one-thing</text>
-  <text x="1135" y="130" text-anchor="end" class="meta good">16 words · 1 step</text>
-
-  <rect x="639" y="148" width="497" height="334" rx="10" class="bubble-ai"/>
-  <g class="a">
-    <text x="659" y="192" font-size="22" font-weight="700">Open the folder or email where</text>
-    <text x="659" y="222" font-size="22" font-weight="700">your W-2 is.</text>
-    <text x="659" y="264" font-size="18">That's it.</text>
-    <text x="659" y="292" font-size="18">Say 'done' when it's open.</text>
-    <text x="659" y="430" font-size="13" class="dim">(the other 8 steps exist. you'll get them one at a time.)</text>
+  <rect x="615" y="118" width="545" height="460" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="639" y="148" font-size="13" font-weight="700" letter-spacing="1.5" fill="#8b949e">AFTER · one-thing</text>
+  <text x="1135" y="148" text-anchor="end" font-size="13" fill="#3fb950">20 words · 1 step, no phone yet</text>
+  <rect x="639" y="166" width="497" height="376" rx="10" fill="#161b22" stroke="#30363d"/>
+  <g fill="#e6edf3">
+    <text x="659" y="202" font-size="22" font-weight="700">Find the doctor's phone number</text>
+    <text x="659" y="238" font-size="22" font-weight="700">and write it on a piece of paper.</text>
+    <text x="659" y="280" font-size="15">That's it. Say "done" when it's written.</text>
+    <text x="659" y="310" font-size="13" fill="#6e7681">(next, you get the exact words to say. one thing at a time.)</text>
   </g>
-  <g class="meta good" font-size="12">
-    <text x="659" y="460">✓ one action  ✓ under 5 minutes  ✓ verb + object  ✓ no choice  ✓ no pep talk</text>
-  </g>
+  <text x="659" y="524" font-size="12" fill="#3fb950">✓ one action  ✓ under 2 minutes  ✓ no call yet  ✓ no pep talk</text>
 </svg>

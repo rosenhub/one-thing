@@ -22,7 +22,7 @@
 npx skills add rosenhub/one-thing
 ```
 
-<img src="assets/before-after.png" alt="Before: 138 words, 9 steps, a choice in step 2, motivational close. After: 16 words, 1 step, under 5 minutes, the other 8 steps held back." width="100%">
+<img src="assets/before-after.png" alt="Before: 74 words · 9 steps. After: 20 words · 1 step, no phone yet. An autistic adult with ADHD. It has been six weeks." width="100%">
 
 Part of [AI Their Way](https://github.com/rosenhub/ai-their-way) — siblings: [no-subtext](https://github.com/rosenhub/no-subtext) · [what-did-they-mean](https://github.com/rosenhub/what-did-they-mean) · [never-say-remember](https://github.com/rosenhub/never-say-remember) · [easy-read](https://github.com/rosenhub/easy-read) · [presume-competence](https://github.com/rosenhub/presume-competence) · [low-demand](https://github.com/rosenhub/low-demand) · [is-this-a-scam](https://github.com/rosenhub/is-this-a-scam)
 
@@ -88,29 +88,29 @@ If your host isn't here and it reads markdown instructions from a file, it works
 
 Same model. Same prompt. The only change is the skill.
 
-### "I need to do my taxes and I've been avoiding it for 3 months"
+### "I need to call the doctor to make an appointment. I've avoided it for weeks. Phones make me freeze."
+
+*An autistic adult with ADHD. It has been six weeks.*
 
 **Before**
 
-> Totally understandable — taxes are one of those things that are easy to put off! The good news is that once you break it down, it's much more manageable.
->
-> Here's a plan:
->
-> 1. Gather your documents: W-2s, 1099s, last year's return, and any receipts for deductions.
-> 2. Decide whether you'll file yourself (TurboTax, FreeTaxUSA) or use a professional.
-> 3. Create an account or book an appointment.
-> 4. Enter your income information.
-> 5. Go through the deductions and credits you may qualify for.
-> 6. Double-check everything for accuracy.
-> 7. Submit your federal return.
-> 8. File your state return.
-> 9. Save a copy of your confirmation for your records.
->
-> Remember, three months isn't that bad, and the hardest part is just getting started. You've got this!
+> That's so understandable, and phone anxiety is really common! Here's a plan:
+> 1. Find the number.
+> 2. Check your calendar for good times.
+> 3. Write a script of what you'll say.
+> 4. Get your insurance card ready.
+> 5. Practice the script out loud.
+> 6. Pick a quiet time to call.
+> 7. Make the call.
+> 8. Write down the appointment.
+> 9. Reward yourself!
+> You can also check if they have online booking. You've got this!
 
 **After**
 
-> Open the folder or email where your W-2 is. That's it. Say 'done' when it's open.
+> Find the doctor's phone number and write it on a piece of paper.
+>
+> That's it. Say "done" when it's written.
 
 ### "I need to clean my apartment, it's a disaster"
 

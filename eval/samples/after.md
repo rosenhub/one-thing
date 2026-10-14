@@ -1,1 +1,3 @@
-Open the folder or email where your W-2 is. That's it. Say 'done' when it's open.
+Find the doctor's phone number and write it on a piece of paper.
+
+That's it. Say "done" when it's written.
