@@ -14,7 +14,6 @@
 [![Status](https://img.shields.io/badge/status-v1.0-brightgreen?style=flat-square)](CHANGELOG.md)
 [![OneThingBench](https://img.shields.io/badge/OneThingBench-run%20it-orange?style=flat-square)](eval/)
 
-**不是计划。不是清单。只做一件事。为执行功能差异设计，对所有人更好。**
 
 [Install](#install) · [Before / After](#before--after) · [The 12 rules](#the-12-rules) · [Benchmark](#onethingbench) · [Why not X](#why-not-i-have-adhd--ponytail--a-to-do-app) · [FAQ](#faq)
 
