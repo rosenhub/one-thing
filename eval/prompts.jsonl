@@ -1,0 +1,48 @@
+{"id": "avoid-01", "category": "avoidance", "prompt": "I need to do my taxes and I've been avoiding it for 3 months"}
+{"id": "avoid-02", "category": "avoidance", "prompt": "I have a pile of unopened mail on the counter that's been there since August. Help."}
+{"id": "avoid-03", "category": "avoidance", "prompt": "I've had a text from my sister sitting unanswered for two weeks and now it's weird. What do I do?"}
+{"id": "avoid-04", "category": "avoidance", "prompt": "My car's check engine light has been on since spring and I just keep driving. I know. Help me deal with it."}
+{"id": "avoid-05", "category": "avoidance", "prompt": "I need to renew my passport and the form is scary and I haven't started"}
+{"id": "avoid-06", "category": "avoidance", "prompt": "I have to write a thank-you note to my aunt for the gift from my birthday in March. It's October."}
+{"id": "admin-07", "category": "admin-tasks", "prompt": "I need to change my address with the DMV, the bank, and my job. Where do I even start?"}
+{"id": "admin-08", "category": "admin-tasks", "prompt": "I have to cancel a gym membership I haven't used in a year"}
+{"id": "admin-09", "category": "admin-tasks", "prompt": "I need to set up autopay for my electric bill"}
+{"id": "admin-10", "category": "admin-tasks", "prompt": "I have to get my kid's school registration packet done by Friday and it's like 12 forms"}
+{"id": "admin-11", "category": "admin-tasks", "prompt": "I need to file a warranty claim for my broken laptop"}
+{"id": "admin-12", "category": "admin-tasks", "prompt": "I have to update my resume and I haven't touched it in 4 years"}
+{"id": "clean-13", "category": "cleaning", "prompt": "I need to clean my apartment, it's a disaster"}
+{"id": "clean-14", "category": "cleaning", "prompt": "My kitchen sink has been full of dishes for a week and I can't look at it"}
+{"id": "clean-15", "category": "cleaning", "prompt": "I need to clean out my car before I drive my mother-in-law to the airport tomorrow"}
+{"id": "clean-16", "category": "cleaning", "prompt": "My closet is so full I can't close the door. Help me deal with it."}
+{"id": "clean-17", "category": "cleaning", "prompt": "The bathroom needs cleaning and I keep walking past it"}
+{"id": "clean-18", "category": "cleaning", "prompt": "There's laundry on every surface of my bedroom. I don't know where to start."}
+{"id": "health-19", "category": "health-appointments", "prompt": "I need to find a new dentist and book a cleaning. I haven't been in 3 years."}
+{"id": "health-20", "category": "health-appointments", "prompt": "I have to schedule a follow-up with Dr. Patel and I keep forgetting"}
+{"id": "health-21", "category": "health-appointments", "prompt": "I need to refill my prescription and it ran out two days ago"}
+{"id": "health-22", "category": "health-appointments", "prompt": "I have to get a referral for physical therapy and I don't understand how referrals work"}
+{"id": "health-23", "category": "health-appointments", "prompt": "I need to book an eye exam. My glasses are from 2019."}
+{"id": "health-24", "category": "health-appointments", "prompt": "I'm supposed to get bloodwork done before my appointment next week and I haven't"}
+{"id": "work-25", "category": "work-projects", "prompt": "I have to write a quarterly report for my boss and it's due Thursday. I haven't started."}
+{"id": "work-26", "category": "work-projects", "prompt": "I need to prep a 20-minute presentation for Monday's team meeting"}
+{"id": "work-27", "category": "work-projects", "prompt": "My inbox has 340 unread emails and I'm starting to miss things"}
+{"id": "work-28", "category": "work-projects", "prompt": "I have to onboard a new hire next week and there's no checklist"}
+{"id": "work-29", "category": "work-projects", "prompt": "I need to clean up the shared drive, it's chaos and nobody can find anything"}
+{"id": "work-30", "category": "work-projects", "prompt": "I have a performance review self-assessment due and I've been staring at the blank form for an hour"}
+{"id": "money-31", "category": "money-tasks", "prompt": "I need to make a budget. I've never had one."}
+{"id": "money-32", "category": "money-tasks", "prompt": "I have to dispute a charge on my credit card from a subscription I cancelled"}
+{"id": "money-33", "category": "money-tasks", "prompt": "I need to roll over my old 401k from my last job. It's been two years."}
+{"id": "money-34", "category": "money-tasks", "prompt": "I have medical bills from three different providers and I don't know what I actually owe"}
+{"id": "money-35", "category": "money-tasks", "prompt": "I need to set up a savings account for my daughter"}
+{"id": "money-36", "category": "money-tasks", "prompt": "I have to call the student loan servicer about my payment plan and I keep putting it off"}
+{"id": "done-37", "category": "done-next-followups", "prompt": "[earlier: step was 'open the W-2 email'] done"}
+{"id": "done-38", "category": "done-next-followups", "prompt": "[earlier: step was 'take one trash bag out of the box'] done, what now"}
+{"id": "done-39", "category": "done-next-followups", "prompt": "[earlier: step was 'put your insurance card next to your phone'] ok did it. the number on the back is 800-555-0142"}
+{"id": "done-40", "category": "done-next-followups", "prompt": "[earlier: step was 'open the DMV website'] next"}
+{"id": "done-41", "category": "done-next-followups", "prompt": "[earlier: step was 'find your gym membership email'] I can't find it. ugh."}
+{"id": "done-42", "category": "done-next-followups", "prompt": "[earlier: step was 'open the blank self-assessment form'] still haven't. I don't know."}
+{"id": "plan-43", "category": "asked-for-full-plan", "prompt": "I need to do my taxes. Give me the whole plan, I want to see all of it."}
+{"id": "plan-44", "category": "asked-for-full-plan", "prompt": "I'm moving apartments in 6 weeks. Show me all the steps, not one at a time."}
+{"id": "plan-45", "category": "asked-for-full-plan", "prompt": "What's the whole plan for getting a new dentist? I want the full list."}
+{"id": "plan-46", "category": "asked-for-full-plan", "prompt": "I need to apply for disability benefits. Give me the whole plan start to finish."}
+{"id": "plan-47", "category": "asked-for-full-plan", "prompt": "Just give me the full plan for cleaning my apartment, I'll work through it myself"}
+{"id": "plan-48", "category": "asked-for-full-plan", "prompt": "I have to plan my dad's 70th birthday dinner. Give me the whole plan."}
