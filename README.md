@@ -14,12 +14,13 @@
 [![Status](https://img.shields.io/badge/status-v1.0-brightgreen?style=flat-square)](CHANGELOG.md)
 [![OneThingBench](https://img.shields.io/badge/OneThingBench-run%20it-orange?style=flat-square)](eval/)
 
-
-[Install](#install) · [Before / After](#before--after) · [The 12 rules](#the-12-rules) · [Benchmark](#onethingbench) · [Why not X](#why-not-i-have-adhd--ponytail--a-to-do-app) · [FAQ](#faq)
+[For caregivers](#for-parents-and-caregivers) · [Install](#install) · [Before / After](#before--after) · [The 12 rules](#the-12-rules) · [Benchmark](#onethingbench) · [Why not X](#why-not-i-have-adhd--ponytail--a-to-do-app) · [FAQ](#faq)
 
 ```bash
 npx skills add rosenhub/one-thing
 ```
+
+**Not a developer? [Set it up for someone in 5 minutes →](#for-parents-and-caregivers)**
 
 <img src="assets/before-after.png" alt="Before: 74 words · 9 steps. After: 20 words · 1 step, no phone yet. An autistic adult with ADHD. It has been six weeks." width="100%">
 
@@ -41,6 +42,88 @@ People with executive-function differences have spent three years telling you ex
 None of that is an ADHD problem or an autism problem. It is a list problem. People with executive-function differences hit it first because the gap between knowing the steps and starting one is the exact thing their brain does differently. Hand everyone one small physical action instead of a plan and everyone starts sooner. This is the curb-cut effect, applied to getting things done.
 
 `one-thing` is one markdown file that tells any agent: give the next physical action, under 5 minutes, and hold the rest until they say "done."
+
+## For parents and caregivers
+
+**No coding.** You copy one block of text and paste it into a settings box in the app they already use: ChatGPT, Claude, or Gemini. It takes about 5 minutes. Every new chat after that follows the rules.
+
+**Set it up with them, not for them.** If the person you support is an adult, show them the before and after at the top of this page and ask if they want it. It changes how their AI talks to them, so it's their call. They can turn it off any time.
+
+This one is for **someone who gets stuck starting tasks: autism, ADHD, IDD, brain fog**.
+
+### 1. Copy this
+
+Click the copy button in the top-right corner of the box.
+
+```text
+When I ask for help with a task, give me ONE next action. Not a plan. Not a list.
+- The action takes under 5 minutes.
+- Start with a verb and say exactly what: "Open the email from Dr. Patel."
+- Physical and specific. Never "think about it."
+- Keep the rest of the plan to yourself.
+- When I say "done" or "next," give me the next one action.
+- Never make me choose between steps.
+- No numbered lists. No "first... then..."
+- No pep talk. No "you've got this."
+- If I get stuck, make the step smaller, not the message longer.
+- If I ask for the whole plan, give it in 5 steps or fewer, then go back to one at a time.
+```
+
+The same text is in [`paste-this.txt`](paste-this.txt).
+
+### 2. Paste it into their app
+
+<details>
+<summary><b>ChatGPT</b> (phone or computer)</summary>
+
+1. Open ChatGPT, signed in as them.
+2. Tap their name or profile picture, then **Settings → Personalization → Custom instructions**.
+3. Paste the text into the box that asks how ChatGPT should respond. Some versions call it **"What traits should ChatGPT have?"** Make sure custom instructions are switched on.
+4. Save. Then start a **new** chat. Old chats don't change.
+
+</details>
+
+<details>
+<summary><b>Claude</b> (phone or computer)</summary>
+
+1. Open Claude, signed in as them.
+2. Go to **Projects → New project**. Give it a name they'll recognize, like "My chat."
+3. Open the project's **instructions** and paste the text. Save.
+4. From now on they chat inside that project. In the phone app it's in the menu.
+
+</details>
+
+<details>
+<summary><b>Gemini</b> (phone or computer)</summary>
+
+1. On a computer, go to gemini.google.com, signed in as them.
+2. Open **Gems → New Gem** and give it a name.
+3. Paste the text into **Instructions**. Save.
+4. They chat with that Gem. It also shows up in the Gemini phone app.
+
+</details>
+
+Menus move around between app versions. If a name doesn't match, look for the word **instructions** or **customize**.
+
+### 3. Check that it worked
+
+In a new chat, type:
+
+> I need to call the doctor and I've avoided it for weeks.
+
+You should see one small action, like finding the phone number. Not a list.
+
+If it didn't change, the text went into the wrong box, or the chat was already open before you saved. Start a new chat and try again.
+
+### To turn it off
+
+Delete the text from the same box and save.
+
+### Want more than this?
+
+This text changes how the AI talks. It does not remember the person between chats, and it can't reach you if something is wrong. [Guardian](https://guardian.alwayshere.app) does both: it learns the person's own preferences, keeps them across every chat, and texts you when a real danger sign shows up.
+
+Setting this up for several people, or not sure which skill fits? The **[caregiver setup page](https://rosenhub.github.io/ai-their-way/?for=one-thing)** walks you through it.
 
 ## Install
 
